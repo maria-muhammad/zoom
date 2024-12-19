@@ -1,0 +1,49 @@
+
+body{
+    font-family :sans-serif ;
+    padding:18px 6px;
+    margin:0px;
+    display :flex ;
+    justify-content:center ;
+    background-image:url("./img/MagazinePic-07-2.3.001-bigpicture_07_8.jpg");
+    background-size: cover;
+    
+}
+
+button{
+    color:green;
+    font-size:20px ;
+    background-color:navy;
+}
+.formcontainer {
+   
+    text-align:left;
+    margin:25px 50px 12px ;
+
+}
+.container{
+    box-sizing:40px ;
+   
+}
+
+Input[type=text], input[type=password]{
+padding:16px 8px;
+margin:8px 0px ;
+box-sizing :border-box;
+display:inline-block ;
+border :1px solid white ;
+}
+button :hover{
+    opacity:0.8;
+    
+}
+span.psw { 
+    float: right;
+     padding-top: 0;
+      padding-right: 5px; 
+      
+    }
+h1 {
+     text-align:center;
+      font: size 40px;
+     }
